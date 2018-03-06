@@ -1,0 +1,7 @@
+C:\Users\work\AppData\Local\Temporary Projects\MathDrill\bin\Debug\MathDrill.exe
+C:\Users\work\AppData\Local\Temporary Projects\MathDrill\bin\Debug\MathDrill.pdb
+C:\Users\work\AppData\Local\Temporary Projects\MathDrill\obj\x86\Debug\MathDrill.MathDrill.resources
+C:\Users\work\AppData\Local\Temporary Projects\MathDrill\obj\x86\Debug\MathDrill.Properties.Resources.resources
+C:\Users\work\AppData\Local\Temporary Projects\MathDrill\obj\x86\Debug\MathDrill.csproj.GenerateResource.Cache
+C:\Users\work\AppData\Local\Temporary Projects\MathDrill\obj\x86\Debug\MathDrill.exe
+C:\Users\work\AppData\Local\Temporary Projects\MathDrill\obj\x86\Debug\MathDrill.pdb
